@@ -64,17 +64,20 @@ The dataset contains:
 
 ## 📷 Dashboard Screenshots
 
-### Overall Dashboard
-![Overall Dashboard](images/dashboard_overall.png)
+### Dashboard Screenshots
+<img width="867" height="489" alt="Screenshot 2026-05-09 141729" src="https://github.com/user-attachments/assets/8edd7eab-9123-48f6-b281-802261edca74" />
 
-### 2018 Dashboard View
-![2018 Dashboard](images/dashboard_2018.png)
+### Dashboard View
+<img width="866" height="495" alt="Screenshot 2026-05-09 141710" src="https://github.com/user-attachments/assets/0472086f-c4c5-4f77-8fb7-c91754b663cc" />
 
-### 2019 Dashboard View
-![2019 Dashboard](images/dashboard_2019.png)
 
-### Regional Dashboard View
-![Regional Dashboard](images/dashboard_regional.png)
+### Dashboard View
+<img width="870" height="500" alt="Screenshot 2026-05-09 141650" src="https://github.com/user-attachments/assets/bf78c1e9-a7bd-4abf-8127-0fad547cbebd" />
+
+
+### Dashboard View
+<img width="869" height="492" alt="Screenshot 2026-05-09 141629" src="https://github.com/user-attachments/assets/5fea569d-b728-4674-afd3-21df44dda977" />
+
 
 ---
 
